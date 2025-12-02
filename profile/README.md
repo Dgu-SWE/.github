@@ -70,8 +70,6 @@ https://github.com/user-attachments/assets/afd22350-6757-449d-b2eb-45b83b319fc1
 취업뿐만 아니라 장학, 학사 등 다양한 분야의 공지사항을 의도에 맞게 선별하여 조회할 수 있습니다.
 <br> <br>
 
-<br> <br>
-
 ### 6. 수강과목페이지
 https://github.com/user-attachments/assets/efbf5d02-2288-43c1-8a38-7aadf2c35a6d
 

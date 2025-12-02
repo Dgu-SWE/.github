@@ -90,6 +90,13 @@ https://github.com/user-attachments/assets/e2bc81a0-f80f-4af2-9e95-f2898accfbc8
 
 <img width="1274" height="1002" alt="image" src="https://github.com/user-attachments/assets/82039c60-c8be-4123-95b1-26cde6c3a360" />
 
+| Category | Technology |
+| :--- | :--- |
+| **Frontend (React)** | 사용자 인터페이스를 담당하며, Vercel을 통해 배포됩니다. 사용자의 요청을 백엔드로 전달하고, 결과를 시각화(게이지바, 채팅창 등)합니다. |
+| **Backend (Spring Boot)** | 시스템의 허브 역할을 합니다. 사용자 인증, 학사 데이터 관리, 비즈니스 로직(졸업 요건 계산 등)을 수행하며, PostgreSQL 데이터베이스와 통신합니다. Cloudtype에 배포되어 운영됩니다. |
+| **AI Engine (FastAPI)** | 지능형 챗봇 기능을 담당합니다. 사용자의 자연어 질문을 이해하고, Spring Boot 서버로부터 필요한 학사 데이터(MCP)를 받아 답변을 생성합니다. 역시 Cloudtype에서 운영됩니다. |
+| **CI/CD (GitHub Actions)** | GitHub에 코드가 푸시되면 자동으로 빌드 및 배포가 이루어지는 파이프라인을 구축하여 개발 효율성을 높였습니다. |
+
 ---
 
 ## 📚 Tech Stack

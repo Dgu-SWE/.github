@@ -136,9 +136,9 @@ https://github.com/user-attachments/assets/e2bc81a0-f80f-4af2-9e95-f2898accfbc8
 
 | Repository | Description |
 | :--- | :--- |
-| **[`gonnag-back`](./gonnag-back)** | **Core Server.** 인증, 졸업 계산 로직, MCP 데이터 제공자 |
-| **[`gonnag-front`](./gonnag-front)** | **User Interface.** 반응형 웹 대시보드 및 채팅 인터페이스 |
-| **[`gonnag-ai`](./gonnag-ai)** | **AI Engine.** 의도 분류 및 MCP 기반 답변 생성 |
+| **gonnag-back** | **Core Server.** 인증, 졸업 계산 로직, MCP 데이터 제공자 |
+| **gonnag-front)** | **User Interface.** 반응형 웹 대시보드 및 채팅 인터페이스 |
+| **gonnag-ai** | **AI Engine.** 의도 분류 및 MCP 기반 답변 생성 |
 
 ---
 

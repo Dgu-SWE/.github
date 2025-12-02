@@ -20,7 +20,6 @@
 ---
 ## 📦 UseCase Diagrma
 <img width="14444" height="900" alt="image" src="https://github.com/user-attachments/assets/e70666e9-6b84-4280-97df-9494c9d22149" />
-### 📋 주요 유즈케이스 명세
 
 | 기능 (Use Case) | 설명 (Description) |
 | :--- | :--- |
